@@ -1,0 +1,49 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Music Production ",
+      "slug": "music-production-logic",
+      "description": "We are learning how to compose, record, and mix music using Logic Pro X.",
+      "price": 119.99,
+      "instructor": "Zaid Malik",
+      "isFeatured": true
+    },
+    {
+      "id": 2,
+      "title": "Mastering Vocals",
+      "slug": "vocal-masterclass",
+      "description": "We are improving vocal control, tone, and pitch for professional singing with pro x.",
+      "price": 89.50,
+      "instructor": "Hira Ahsan",
+      "isFeatured": true
+    },
+    {
+      "id": 3,
+      "title": "Sound Design with Synths",
+      "slug": "sound-design-synths",
+      "description": "We are exploring synths, effects, and creative sound design techniques.",
+      "price": 99.00,
+      "instructor": "Danish Noor",
+      "isFeatured": true
+    },
+    {
+      "id": 4,
+      "title": "Music Theory Basics",
+      "slug": "music-theory-beginner",
+      "description": "We are building a foundation in chords, scales, and harmony for songwriting.",
+      "price": 74.99,
+      "instructor": "Iqra Rehman",
+      "isFeatured": true
+    },
+    {
+      "id": 5,
+      "title": " Mastering Essentials",
+      "slug": "mixing-mastering-course",
+      "description": "We are learning how to polish tracks for streaming platforms and radio-ready quality.",
+      "price": 129.99,
+      "instructor": "Ali Noman",
+      "isFeatured": true
+    }
+  ]
+}
